@@ -1,2 +1,2 @@
 # mi-repositorio
-mi primer reposotorio
+mi primer repositorio
